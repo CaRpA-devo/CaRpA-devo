@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning html and css , UI Basics
 
-### Kontakt
+### contact
 
 salgueiro2@web.de
