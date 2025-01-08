@@ -8,4 +8,4 @@ In my portfolio, I showcase my current knowledge. This gives you insight into my
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 
-salgueiro2@web.de
+carpa-devo@web.de
