@@ -40,7 +40,7 @@ Egal ob Frontend, Backend oder Fullstack – ich liebe es, Ideen in funktioniere
 ## 📫 Kontakt
 
 - 📧 **E-Mail:** carpa-devo@web.de  
-- 💼 **LinkedIn:** linkedin.com/in/patrick-salgueiro-1b64a3353
+- 💼 **LinkedIn:** [linkedin.com/in/patrick-salgueiro-1b64a3353](https://www.linkedin.com/in/patrick-salgueiro-1b64a3353/)
 - 🌐 **Website:** in der Entwicklungsphase
 
 ---
