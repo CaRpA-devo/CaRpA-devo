@@ -1,4 +1,4 @@
-<img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/studios-logo.png" alt="Ich bin CaRpA-devo" width="600" height="200">
+<img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/studios-logo.png" alt="Ich bin CaRpA-devo" width="800" height="300">
 
 
 # 👋 Hi, ich bin CaRpA-devo – Web & Softwareentwickler
