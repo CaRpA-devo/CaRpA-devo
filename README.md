@@ -1,3 +1,5 @@
+> _"Code ist wie Magie – nur mit weniger Zauberstäben und mehr Tastatur."_ ✨
+
 <img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/wallpaper.png" alt="Ich bin CaRpA-devo" width="800" height="300">
 
 # 👋 Hi, ich bin CaRpA-devo – Web- & Softwareentwickler in Ausbildung
@@ -82,4 +84,3 @@ Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende 
 
 ---
 
-> _"Code ist wie Magie – nur mit weniger Zauberstäben und mehr Tastatur."_ ✨
