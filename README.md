@@ -1,12 +1,11 @@
 <img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/wallpaper.png" alt="Ich bin CaRpA-devo" width="800" height="300">
 
+# 👋 Hi, ich bin CaRpA-devo – Web- & Softwareentwickler in Ausbildung
 
-# 👋 Hi, ich bin CaRpA-devo – Web & Softwareentwickler
+Willkommen in meinem GitHub-Portfolio!  
+Ich bin ein engagierter Entwickler mit Fokus auf moderne Webtechnologien, sauberen Code und kreative, praxisorientierte Lösungen.
 
-Willkommen in meinem GitHub-Portfolio!     
-
-Ich bin leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien, sauberen Code und kreative Lösungen.    
-Egal ob Frontend, Backend oder Fullstack – ich liebe es, Ideen in funktionierende Anwendungen zu verwandeln.
+Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende Anwendungen zu bauen.
 
 ---
 
@@ -27,15 +26,16 @@ Egal ob Frontend, Backend oder Fullstack – ich liebe es, Ideen in funktioniere
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-![Cursor](https://img.shields.io/badge/-Cursor-FF0000?style=flat&logo=cursor)  
+![Cursor](https://img.shields.io/badge/-Cursor-FF0000?style=flat&logo=cursor)
 
 ---
 
 ## 💼 Über mich
 
-- 🧠 Immer auf der Suche nach neuen Technologien und Herausforderungen
-- 🛠️ Projektorientierter Entwickler mit Fokus auf pragmatische Lösungen
-- 🌍 Offen für Freelancer-Jobs, Remote-Arbeit und neue Kontakte
+- 🧠 In Ausbildung bei DCI zum Webentwickler – mit Begeisterung für neue Technologien  
+- 🛠️ Praktisch denkender Entwickler mit Blick für sauberen Code & Benutzerfreundlichkeit  
+- 🤝 Aktuell auf der Suche nach einem **Praktikum oder Berufseinstieg**  
+- 🌍 Offen für Freelancer-Projekte, Remote-Jobs & Tech-Communities  
 
 ---
 
@@ -43,14 +43,42 @@ Egal ob Frontend, Backend oder Fullstack – ich liebe es, Ideen in funktioniere
 
 - 📧 **E-Mail:** carpa-devo@web.de  
 - 💼 **LinkedIn:** [linkedin.com/in/patrick-salgueiro-1b64a3353](https://www.linkedin.com/in/patrick-salgueiro-1b64a3353/)
-- 🌐 **Website:** in der Entwicklungsphase
+- 🌐 **Portfolio:** aktuell in Entwicklung – coming soon!
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaRpA-devo&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaRpA-devo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaRpA-devo&layout=compact&theme=radical)
+
+---
+
+## 🔥 Contributions & Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaRpA-devo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=CaRpA-devo&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/CaRpA-devo)
+
+
+---
+
+## 🏆 GitHub Trophäen
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CaRpA-devo&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📌 Top-Beitrag (Repository)
+
+[![CaRpA-devo's top repo](https://github-readme-stats.vercel.app/api/pin/?username=CaRpA-devo&repo=DEIN-REPOSITORY-NAME&theme=radical)](https://github.com/CaRpA-devo/DEIN-REPOSITORY-NAME)
+
+
+---
+
+## 💬 Zufälliges Dev-Zitat
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
