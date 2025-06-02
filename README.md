@@ -69,9 +69,9 @@ Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende 
 
 ---
 
-## 📌 Top-Beitrag (Repository)
+<!-- ## 📌 Top-Beitrag (Repository)
 
-[![CaRpA-devo's top repo](https://github-readme-stats.vercel.app/api/pin/?username=CaRpA-devo&repo=DEIN-REPOSITORY-NAME&theme=radical)](https://github.com/CaRpA-devo/DEIN-REPOSITORY-NAME)
+[![CaRpA-devo's top repo](https://github-readme-stats.vercel.app/api/pin/?username=CaRpA-devo&repo=DEIN-REPOSITORY-NAME&theme=radical)](https://github.com/CaRpA-devo/DEIN-REPOSITORY-NAME) -->
 
 
 ---
