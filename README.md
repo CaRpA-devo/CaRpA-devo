@@ -51,7 +51,7 @@ Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende 
 
 ## 🔥 Contributions & Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CaRpA-devo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Total Contributions](https://github-readme-stats.vercel.app/api?username=CaRpA-devo&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/CaRpA-devo)
 
