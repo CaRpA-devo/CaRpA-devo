@@ -1,13 +1,13 @@
-> _"Code ist wie Magie – nur mit weniger Zauberstäben und mehr Tastatur."_ ✨
+> _"Code ist wie Magie  nur mit weniger Zauberstäben und mehr Tastatur."_ ✨
 
 <img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/bg.jpg" alt="Ich bin CaRpA-devo" width="800" height="300">
 
-# 👋 Hi, ich bin CaRpA-devo – Web- & Softwareentwickler in Ausbildung
+# 👋 Hi, ich bin CaRpA Web- & Softwareentwickler in Ausbildung
 
-Willkommen in meinem GitHub-Portfolio!  
+Willkommen in meinem GitHub Portfolio!  
 Ich bin ein engagierter Entwickler mit Fokus auf moderne Webtechnologien, sauberen Code und kreative, praxisorientierte Lösungen.
 
-Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende Anwendungen zu bauen.
+Ob Frontend, Backend oder Fullstack  ich liebe es, aus Ideen funktionierende Anwendungen zu bauen.
 
 ---
 
@@ -34,7 +34,7 @@ Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende 
 
 ## 💼 Über mich
 
-- 🧠 In Ausbildung bei DCI zum Webentwickler – mit Begeisterung für neue Technologien  
+- 🧠 In Ausbildung bei DCI zum Webentwickler  mit Begeisterung für neue Technologien  
 - 🛠️ Praktisch denkender Entwickler mit Blick für sauberen Code & Benutzerfreundlichkeit  
 - 🤝 Aktuell auf der Suche nach einem **Praktikum oder Berufseinstieg**  
 - 🌍 Offen für Freelancer-Projekte, Remote-Jobs & Tech-Communities  
@@ -45,7 +45,7 @@ Ob Frontend, Backend oder Fullstack – ich liebe es, aus Ideen funktionierende 
 
 - 📧 **E-Mail:** carpa-devo@web.de  
 - 💼 **LinkedIn:** [linkedin.com/in/patrick-salgueiro-1b64a3353](https://www.linkedin.com/in/patrick-salgueiro-1b64a3353/)
-- 🌐 **Portfolio:** aktuell in Entwicklung – coming soon!
+- 🌐 **Portfolio:** aktuell in Entwicklung  coming soon!
 
 ---
 
