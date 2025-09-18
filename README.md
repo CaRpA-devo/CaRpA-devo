@@ -1,6 +1,6 @@
 > _"Code ist wie Magie – nur mit weniger Zauberstäben und mehr Tastatur."_ ✨
 
-<img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/bg.jpg" alt="Ich bin CaRpA-devo" width="800" height="300">
+<img src="https://github.com/CaRpA-devo/CaRpA-devo/blob/main/bg1.jpg" alt="Ich bin CaRpA-devo" width="800" height="300">
 
 # 👋 Hi, ich bin CaRpA-devo – Web- & Softwareentwickler in Ausbildung
 
